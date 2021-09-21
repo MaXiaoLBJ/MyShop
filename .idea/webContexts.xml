@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" value="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car" />
+        <entry key="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" value="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item" />
+        <entry key="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemCategory/itemCategory.jsp" value="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemCategory" />
+        <entry key="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" value="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder" />
+        <entry key="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" value="file://$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login" />
+        <entry key="file://$PROJECT_DIR$/WebRoot/common/taglibs.jsp" value="file://$PROJECT_DIR$/WebRoot/common" />
+      </map>
+    </option>
+  </component>
+</project>
